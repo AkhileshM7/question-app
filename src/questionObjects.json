@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "question": "What is the national bird of India?",
+        "answer" : "peacock",
+        "option": [""],
+        "answerOption": [""]
+    },
+    {
+        "id": 2,
+        "question": "What is squareroot of 9?",
+        "answer" : "3",
+        "option": ["2", "3", "4","6"],
+        "questionOption": [""]
+    },
+    {
+        "id": 3,
+        "question": "Which among these are dog breeds?",
+        "answer" : ["beagle", "golden retriever"],
+        "option": ["beagle", "golden retriever", "persian", "none"],
+        "questionOption": [""]
+    },
+    {
+        "id": 4,
+        "question": "Sea water is non drinkable",
+        "answer" : ["true"],
+        "option": ["true", "false"],
+        "questionOption": [""]
+    },
+    {
+        "id": 5,
+        "question": "Match with capitals",
+        "questionOption" : ["India", "Japan", "Australia","France"],
+        "answer": ["Delhi", "Tokyo", "Canberra","Paris"],
+        "option": ["Tokyo", "Canberra","Paris", "Delhi"]
+    }
+    
+]
