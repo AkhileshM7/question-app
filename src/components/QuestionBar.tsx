@@ -3,24 +3,7 @@ import questionObjects from "../questionObjects.json";
 import { Box } from "@mui/material";
 import { Link, NavigateFunction, useNavigate } from "react-router-dom";
 
-type questionBarType = {
-  ansArr: ansArrType;
-  id: number;
-};
 
-type questionType = {
-  id: number;
-  question: string;
-  answer: Array<string> | string;
-  questionOption: Array<string>;
-  option: Array<string>;
-};
-
-type circleType = {
-  id: number;
-  isAnswered: boolean;
-  highlight: boolean;
-};
 const QuestionBar =
  
   ({ ansArr, id }: any) => {
